@@ -1,0 +1,149 @@
+body {
+    font-family: 'Montserrat';
+}
+
+#title {
+    background-color: #ff4c68;
+}
+
+h1 {
+    color: white;
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 1.5;
+}
+
+h2 {
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.5;
+}
+
+h3 {
+    font-family: 'Montserrat';
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+.container-fluid {
+    padding: 3% 15% 7%;
+}
+
+/*Navigation Bar*/
+
+.navbar {
+    padding: 0 0 50px;
+}
+
+.navbar-brand {
+    font-family: 'ubuntu';
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-family: 'Montserrat';
+    font-size: 1.3rem;
+    font-weight: lighter;
+}
+
+/*Download button*/
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+/*Title Image*/
+
+.title-image {
+    transform: rotate(20deg);
+    width: 20%;
+    position: absolute;
+    right: 22%;
+}
+
+/*Features*/
+
+#features {
+    background-color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+    position: relative;
+}
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 2rem;
+}
+
+.icon:hover {
+    color: #ff4c68;
+}
+
+/*Testimonial Section*/
+
+#testimonials {
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+.pricing-card {
+    padding: 3% 2%;
+}
+
+#cta {
+    background-color: #ff4c68;
+    font-family: 'Montserrat';
+    text-align: center;
+    color: #fff;
+    padding: 5%;
+}
+
+#footer {
+    padding: 7%;
+    text-align: center;
+}
+.footer-icons {
+    padding: 5px;
+    color: #000;
+}
+.copyright {
+    font-family: 'Montserrat';
+    padding-top: 10px;
+}
